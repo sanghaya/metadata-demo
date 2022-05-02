@@ -1,7 +1,11 @@
-[{
-  "id": 0,
-  "description": "Testing POAP with metadata in Pinata", 
-  "external_url": "https://sanghaha.com", 
-  "image": "ipfs://QmYo18zNJFVHukDPvXVSPCU4Tdjb2NjT1GRUd7mYyq6txE", 
-  "name": "POAP TEST"
-}]
+{
+  "tokens":[
+    {
+      "id": 0,
+      "description": "Testing POAP with metadata in Pinata", 
+      "external_url": "https://sanghaha.com", 
+      "image": "ipfs://QmYo18zNJFVHukDPvXVSPCU4Tdjb2NjT1GRUd7mYyq6txE", 
+      "name": "POAP TEST"
+    }
+  ]
+}
